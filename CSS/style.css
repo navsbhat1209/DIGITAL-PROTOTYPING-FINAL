@@ -1,0 +1,9 @@
+body{background-color: rgb(176, 212, 234);
+    font-family: 'Young Serif', serif;}
+
+    table td{border:1px solid black; border-collapse: collapse; text-align: center;}
+    p{font-size: large;}
+  .rounded-picture{border-radius: 50%;}
+  .header{background-color: rgb(56, 131, 196);}
+  .title{background-color: rgb(171, 238, 244);}
+  .photos{margin: 150px;}
